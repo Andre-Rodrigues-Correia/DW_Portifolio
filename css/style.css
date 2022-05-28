@@ -313,6 +313,7 @@ p {
   background: #000;
   color: white;
   padding: 20px;
+  font-family: 'Tiro Kannada';
 }
 
 /* Edições pessoais */
@@ -340,4 +341,10 @@ section#testimonials > div.container div > a > p > span {
   font-weight: bold;
   color: white;
   font-size: 1.1em;
+}
+
+.footer-fixed {
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
 }
