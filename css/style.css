@@ -348,3 +348,8 @@ section#testimonials > div.container div > a > p > span {
   position: fixed;
   bottom: 0;
 }
+
+ul {
+  text-align: justify;
+
+}
