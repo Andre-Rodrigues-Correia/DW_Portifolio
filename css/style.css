@@ -349,7 +349,6 @@ section#testimonials > div.container div > a > p > span {
   bottom: 0;
 }
 
-ul {
+.lgHeading ~ p, ul {
   text-align: justify;
-
 }
